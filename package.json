@@ -1,0 +1,29 @@
+{
+  "name": "@veyralabs/venture-suite",
+  "version": "0.1.0",
+  "description": "Venture Intelligence pack for Claude Code - idea validation, competitor research, and Bull/Bear/Judge verdict",
+  "files": [
+    "venture-analyst/"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "agent-skill",
+    "startup-validation",
+    "market-research",
+    "idea-validation",
+    "lean-startup",
+    "saas-validation",
+    "ai-agents"
+  ],
+  "author": "VeyraLabs <hello@veyralabs.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veyralabsgroup/venture-suite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/veyralabsgroup/venture-suite/issues"
+  },
+  "homepage": "https://github.com/veyralabsgroup/venture-suite#readme"
+}
