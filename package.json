@@ -1,6 +1,6 @@
 {
   "name": "@veyralabs/venture-suite",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Venture Intelligence pack for Claude Code - idea validation, competitor research, and Bull/Bear/Judge verdict",
   "files": [
     "venture-analyst/"
